@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>It's the End of the World as We Know It And I Feel Fine</h1>
+<p>I'm hosted with GitHub Pages.</p>
+</body>
+</html>
